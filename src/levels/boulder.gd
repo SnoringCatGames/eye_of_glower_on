@@ -3,7 +3,7 @@ extends Node2D
 
 
 const DURATION := 1.5
-const DELAY := 0.5
+const DELAY := 0.01
 const START_Y := -280.0
 const END_Y := 256.0
 
